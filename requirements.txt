@@ -4,5 +4,4 @@ Werkzeug
 reportlab
 openpyxl
 gunicorn
-mysqlclient
 PyMySQL
